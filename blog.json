@@ -1,0 +1,14 @@
+{
+    "reactJs" :{
+        "title" :"React js",
+        "description" :"React is a javascript library which is use for user inteface React is use virtual dom menans When we change some HTML code this will be compare with real dom and only replace the upgrade portion so It will improve performance"
+    },
+    "nodeJs" : {
+        "title" :"Node js",
+        "description" :"Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more. Node.js is a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine, and executes JavaScript code outside a web browser."
+    },
+    "nextJs" :{
+        "title" :"Next js",
+        "description" :"Next.js is a React frameworkthat gives you building blocks to create web applications. By framework, we mean Next.js handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application. "
+    }
+}
